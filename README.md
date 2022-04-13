@@ -13,7 +13,7 @@ You can run this project on your local machine. Download the project on local ma
 2. Now run the server:
 
 ```bash
-node index.js
+npm run start
 ```
 
 3. Open [http://localhost:8000/articles](http://localhost:8000/articles) in browser or from terminal
