@@ -1,9 +1,8 @@
 # NODEJS - NEWS-API
-The Project scrapes headlines form a news portal and returns json file containing
-the headline and url to the article
+The Project scrapes headlines form a news portal and returns json file containing the headline and url to the article
 
 ## To run the project
-You can run this project on your local machine. Download the project on local machine:
+You can run this project on your local machine. Download the project on local machine and follow the instructions below:
 
 ### `npm i`
 
